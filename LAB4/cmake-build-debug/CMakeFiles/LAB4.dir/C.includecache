@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ryang/CLionProjects/LAB4/lab4.h
+utilities.h
+C:/Users/ryang/CLionProjects/LAB4/utilities.h
+
+C:/Users/ryang/CLionProjects/LAB4/lab4_part2.c
+lab4.h
+C:/Users/ryang/CLionProjects/LAB4/lab4.h
+math.h
+-
+
+C:/Users/ryang/CLionProjects/LAB4/utilities.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
